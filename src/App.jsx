@@ -18,8 +18,7 @@ function App() {
       title: "Top Ways to Assess Soft Skills in Full Stack Developers in 2024",
       paragraph:
         "When you’re hiring a full-stack developer, what are the most important things you look for?",
-      readmore: "READ MORE >>",
-      footer: "15 November 2023 . No Comments",
+       
     },
     {
       image:
@@ -27,8 +26,7 @@ function App() {
       title: "Top Differences: Full Stack Developer vs Software Engineer 2024",
       paragraph:
         "A Full Stack Developer is a tech all-rounder. They work on both the front and",
-      readmore: "READ MORE >>",
-      footer: "15 November 2023 . No Comments",
+       
     },
     {
       image:
@@ -36,8 +34,7 @@ function App() {
       title: "Horizontal vs Vertical Scaling for Efficient System Design",
       paragraph:
         "In the world of system design, envision a digital skyscraper – a multifaceted structure built",
-      readmore: "READ MORE >>",
-      footer: "10 November 2023 . No Comments",
+       
     },
     {
       image:
@@ -45,8 +42,7 @@ function App() {
       title: "Best Books to Learn Full-Stack Development",
       paragraph:
         "Are you interested in becoming a full-stack developer but not sure where to start? In",
-      readmore: "READ MORE >>",
-      footer: "9 November 2023 . No Comments",
+      
     },
     {
       image:
@@ -54,8 +50,7 @@ function App() {
       title: "Top 10 Product-Based Companies for Full-Stack Developers [2024]",
       paragraph:
         "In the dynamic landscape of technology, full-stack developers are the architects of the digital world,",
-      readmore: "READ MORE >>",
-      footer: "8 November 2023 . No Comments",
+      
     },
     {
       image:
@@ -63,8 +58,7 @@ function App() {
       title: "7 Best Full-Stack Development Online Courses [2024]",
       paragraph:
         "Today’s world is rapidly evolving into a technological landscape. Owing to these dynamics, the demand",
-      readmore: "READ MORE >>",
-      footer: "31 August 2023 . No Comments",
+       
     },
   ];
 
