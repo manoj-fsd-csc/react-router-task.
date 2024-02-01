@@ -1,0 +1,7 @@
+{
+      image : "",
+      title : "",
+      paragraph: "",
+      readmore: "READ MORE >>"
+      footer : ""
+    },
